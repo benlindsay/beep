@@ -22,7 +22,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: benlindsay
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: rvLVMxyq0qGKAWyl88+5pk3feBI8dF3ujHlfQbTNHqsDAhAOR3fd9ASha518HpVVqVHjQSeSbXjL4EmzT1cEFLuDpu1s67nivQX+uBi+9xfDBJiGTka+bcdEETtVKR5/VdC9TPFsopNfEWyv+urcBiNOuHWeoHOnv7rQuRnoq16vPqUWmpl+dfV1IHtNNkjw5304ifpFo+bfG/RzG9REMQ7Bs5H/hHDEDuTbN+RGMIu5Vajl3+jGLq50Pzw6WtL3LNTphxKIMoFmO0m8MLxJJFblfFGGSAWbHcHyou86gD5NzNSekv1l9njayCk9ubt8AWS8uYZ6KLRcc8yVcXe8DGq7YKemeT1eYsud/V6EEi+6Yn89+dfl/MG7p/sfKUEWoT8R9cLFd6J9UcWCb7BgMi6v+wbrOK1geP3aBN9GeABR+8aDo1MfoMFiZa8wX6MWtNYgP9CXYZVMR5uTaGd/2dgmHJyaki1Wq+n7L0K1VYqaw7ISD4iMZHQEajmSbmC6BXPK44p7nRBA05V+u9vPTQbIRH35P40NLycKTqRzwMvZNq73Xi/JGd1MZ9CdkRT0SGqIa+KCgJncm0Rwyp8i5XqApdcuRKUZbW9Lbi5i0uStHIybRc5SaDR2ismlI6Jy2toIw2PBLOPW9C8nCRgvbzfogVxR8JAivNGInKLJRMU=
   on:
     tags: true
     repo: benlindsay/beep
